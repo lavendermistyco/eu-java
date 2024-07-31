@@ -1,3 +1,5 @@
+package Day1;
+
 public class Variables {
 
     public static int addNumbers(int a, int b) {
